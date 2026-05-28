@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/home/xerele-mdk/Documents/GL_project/**)",
+      "Edit(/home/xerele-mdk/Documents/GL_project/**)",
+      "Write(/home/xerele-mdk/Documents/GL_project/**)"
+    ]
+  }
+}
